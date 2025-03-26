@@ -382,7 +382,8 @@ section {
 }
 
 .contact-form button:hover {
-  background-color: #f5ee84;
+  background-color: #373305;
+  color: #f5ee84;
 }
 
 section h2 {
@@ -467,3 +468,14 @@ section p {
     max-width: 100%;
   }
 }
+
+.footer-bottom {
+  background-color: #474306;
+  padding: 10px;
+  font-size: 8pt;
+  color: #f5ee84;
+}
+
+.footer-bottom p {
+  margin: 0;
+  text-align: center;
